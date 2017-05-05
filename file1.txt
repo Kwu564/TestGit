@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 word word word word
+=======
+one one one one one
+>>>>>>> branch1
